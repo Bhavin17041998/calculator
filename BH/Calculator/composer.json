@@ -1,0 +1,12 @@
+{
+    "name": "bh/caculator",
+    "description": "This is for demo purpose",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "BH\\Calculator\\": "src/"
+        }
+    }
+}
